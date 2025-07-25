@@ -322,6 +322,4 @@ Both database schemas are included in the `models/` directory with corresponding
 
 ---
 
-**🎉 Ready to explore the Philippines? Start your journey with ExploreMore PH!**
-
 **© 2025 ExploreMore PH. All rights reserved.**
